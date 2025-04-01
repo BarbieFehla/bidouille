@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+
+
+.blue{
+    color:blue;
+}
+
+.yellow{
+    color: yellow;
+}
+
+
+h3{
+    font-size: 80px;
+    text-align: center;
+}
+
+
+p{
+    background-color:pink;
+    color: black;
+    width:50%; 
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
