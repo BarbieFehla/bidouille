@@ -13,15 +13,15 @@ h1{
 
 
 h3{
-    font-size: 80px;
-    text-align: center;
+    font-size: 80px;   /* taille de la typo*/
+    text-align: center; /* aligner le texte au centre */
 }
 
 
 p{
-    background-color:pink;
-    color: black;
-    width:50%; 
+    background-color:pink);  /* couleur de fond texte rose*/
+    color: black; /* couleur texte en noir */
+    width:50%;  
     text-align: center;
     margin: auto;
 }
